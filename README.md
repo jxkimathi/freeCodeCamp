@@ -8,4 +8,6 @@ In this Responsive Web Design Certification, you'll learn the languages that dev
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-* [Cat Photo App](./Responsive%20Web%20Design/Cat%20Photo%20App/) - Learning HTML and CSS in the beginner phase.
+* [Cat Photo App](./Responsive%20Web%20Design/Cat%20Photo%20App/) - Learning the first steps into working with HTML.
+
+* [Cafe Menu App](./Responsive%20Web%20Design/Cafe%20Menu/) - Working on a cafe menu using HTML and CSS in conjecture to further my learning.
