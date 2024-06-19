@@ -11,3 +11,5 @@ Finally, you'll learn how to make webpages that respond to different screen size
 * [Cat Photo App](./Responsive%20Web%20Design/Cat%20Photo%20App/) - Learning the first steps into working with HTML.
 
 * [Cafe Menu App](./Responsive%20Web%20Design/Cafe%20Menu/) - Working on a cafe menu using HTML and CSS in conjecture to further my learning.
+
+* [Colored Markers](./Responsive%20Web%20Design/Colored%20Markers/) - Creating colored markers using HTML and CSS to learn different ways to set color values and how to pair colors with each other.
