@@ -1,6 +1,6 @@
 # Introduction
 Hello there!
-Welcome to this repository where it documents my experience with [freeCodeCamp](www.freecodecamp.org) and their Courses on Web Development.
+Welcome to this repository where it documents my experience with [freeCodeCamp](https://www.freecodecamp.org) and their Courses on Web Development.
 
 # Content
 ## [Responsive Web Design](./Responsive%20Web%20Design/)
@@ -13,3 +13,5 @@ Finally, you'll learn how to make webpages that respond to different screen size
 * [Cafe Menu App](./Responsive%20Web%20Design/Cafe%20Menu/) - Working on a cafe menu using HTML and CSS in conjecture to further my learning.
 
 * [Colored Markers](./Responsive%20Web%20Design/Colored%20Markers/) - Creating colored markers using HTML and CSS to learn different ways to set color values and how to pair colors with each other.
+
+* [Registration Form](./Responsive%20Web%20Design/Registration%20Form/) - Learning to control what types of data people can type into your form, and some new CSS tools for styling your page.
