@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1 id="title">Survey Form</h1>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <p id="description">Kindly Help fill out the following survey!</p>
+
+    <form id="survey-form" method="POST" action='https://register-demo.freecodecamp.org'>
+      <fieldset id="survey-form">
+        <label for="name" id="name-label" name="surveyform">Name <input id="name" type="text" name="survey-form" placeholder="Enter your username" required></label>
+        <label for="email" id="email-label" name="surveyform">Email <input id="email" type="email" name="survey-form" placeholder="Enter a valid Email" required></label>
+        <label for="number" id="number-label" name="surveyform">Age (optional) <input id="number" type="number" name="survey-form" min="18" max="99" placeholder="Age" required></label>
+
+        <label for="dropdown">Which best describes your role? 
+          <select id="dropdown" name="dropdown">
+          <option value="">(select one below)</option>
+          <option value="1">Student</option>
+          <option value="2">Employed</option>
+          <option value="3">Unemployed</option>
+          <option value="4">Other</option>
+          <option value="5">Prefer not to say</option>
+          </select>
+        </label>
+
+        <p>What would you like to improve on in future?</p>
+          <label for="frontend"><input id="frontend" type="radio" value="1" name="improvement" checked>Frontend</label><br><br>
+          <label for="backend"><input id="backend" type="radio" value="2" name="improvement" >Backend</label><br><br>
+          <label for="fullstack"><input id="fullstack" type="radio" value="3" name="improvement" >Fullstack</label><br><br>
+
+          <p>What types of content do you enjoy consuming?</p>
+          <label for="articles"><input id="articles" type="checkbox" value="articles">Articles</label><br><br>
+          <label for="videos"><input id="videos" type="checkbox" value="videos">Videos</label><br><br>
+          <label for="podcasts"><input id="podcasts" type="checkbox" value="podcasts">Podcasts</label><br><br>
+          <label for="blogs"><input id="blogs" type="checkbox" value="blogs">Blogs</label><br><br>
+
+          <label for="bio">Any comments or suggestions: <textarea id="bio" rows="3"  cols="30" placeholder="Nah I'm good..."></textarea>
+      </fieldset>
+      <input value="Submit" id="submit" type="submit">
+    </form>
+
+  </body>
+</html>

@@ -15,3 +15,6 @@ Finally, you'll learn how to make webpages that respond to different screen size
 * [Colored Markers](./Responsive%20Web%20Design/Colored%20Markers/) - Creating colored markers using HTML and CSS to learn different ways to set color values and how to pair colors with each other.
 
 * [Registration Form](./Responsive%20Web%20Design/Registration%20Form/) - Learning to control what types of data people can type into your form, and some new CSS tools for styling your page.
+
+### Certification Project 1
+* [Survey Form](./Responsive%20Web%20Design/Survey%20Form/) - Build an app that is functionally similar to [this one](https://survey-form.freecodecamp.rocks). Do not copy this demo project.
